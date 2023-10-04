@@ -1,0 +1,12 @@
+---
+apiVersion: v1
+appVersion: 0.1.0
+version: 1.0.0
+description: Helm Lab Demo
+home: https://github.com/karunsiri/helm-lab-demo
+kubeVersion: '>=1.24.0-0'
+maintainers:
+- name: karunsiri
+name: helm-lab-demo
+sources:
+- https://github.com/karunsiri/helm-lab-demo
